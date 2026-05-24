@@ -31,7 +31,7 @@ End-to-end EDA and text preprocessing pipeline on the Twitter US Airline Sentime
 ## Project Structure
 ```
 week1/
-├── Week1_NLP_EDA_Preprocessing.ipynb   # Main notebook
+├── NLP_EDA_Preprocessing.ipynb   # Main notebook
 ├── requirements.txt
 └── README.md
 ```
