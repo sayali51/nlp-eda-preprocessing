@@ -1,4 +1,4 @@
-# Week 1 — Exploratory Data Analysis & Preprocessing in NLP
+# Week 1 —Exploratory Data Analysis & Preprocessing in NLP
 
 ## Overview
 End-to-end EDA and text preprocessing pipeline on the Twitter US Airline Sentiment dataset. The notebook explores class distributions, tweet length patterns, top bigrams, and constructs a robust 7-step preprocessing pipeline ready for downstream NLP modeling.
@@ -39,7 +39,7 @@ week1/
 ## Setup & Run
 ```bash
 pip install -r requirements.txt
-jupyter notebook Week1_NLP_EDA_Preprocessing.ipynb
+jupyter notebook NLP_EDA_Preprocessing.ipynb
 ```
 
 ## Requirements
